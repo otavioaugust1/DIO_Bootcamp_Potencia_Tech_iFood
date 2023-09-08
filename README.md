@@ -19,7 +19,7 @@
 <ul>
     <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/TempoEstimadoEntrega.py">
   Tempo Estimado de Entrega &#x2705;</a></li>
-    <li><a href="hhttps://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/CalcularPre%C3%A7oFinalPedido.py">
+    <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/CalcularPre%C3%A7oFinalPedido.py">
   Calcular o Preço Final de um Pedido &#x2705;</a></li>
     <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/GanheSobremesaEspecial.py">
   Ganhe uma Sobremesa Especial! &#x2705;</a></li>
@@ -47,7 +47,7 @@
 </ul>
 
 
-<h2><strong>Progresso das Atividades:  </strong><progress value="87" max="100"></progress> 45%</h2>
+<h2><strong>Progresso das Atividades:  </strong><progress value="87" max="100"></progress> 87%</h2>
 <ul>
 
   <li>Princípios de Desenvolvimento de Software</a></li>
