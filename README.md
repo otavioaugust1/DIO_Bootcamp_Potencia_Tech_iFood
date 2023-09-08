@@ -17,21 +17,21 @@
 
 <h2><strong>Desafios de código: </strong><progress value="100" max="100"></progress> 100%</h2>
 <ul>
-    <li><a href="https://github.com/otavioaugust1/">
+    <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/TempoEstimadoEntrega.py">
   Tempo Estimado de Entrega &#x2705;</a></li>
-    <li><a href="https://github.com/otavioaugust1/">
+    <li><a href="hhttps://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/CalcularPre%C3%A7oFinalPedido.py">
   Calcular o Preço Final de um Pedido &#x2705;</a></li>
-    <li><a href="https://github.com/otavioaugust1/">
+    <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/GanheSobremesaEspecial.py">
   Ganhe uma Sobremesa Especial! &#x2705;</a></li>
-    <li><a href="https://github.com/otavioaugust1/">
+    <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/GerenciamentoPedidosComidaOnline.py">
   Gerenciamento de Pedidos de Comida Online &#x2705;</a></li>
-    <li><a href="https://github.com/otavioaugust1/">
+    <li><a href="https://github.com/otavioaugust1/DIO_Bootcamp_Potencia_Tech_iFood/blob/main/desafio/IdentificandoPedidosVeganos.py">
   Identificando Pedidos Veganos &#x2705;</a></li>
 
 </ul>
 
 
-<h2><strong>Desafios de projeto: </strong><progress value="98" max="100"></progress> 98%</h2>
+<h2><strong>Desafios de projeto: </strong><progress value="100" max="100"></progress> 100%</h2>
 <ul>
     <li><a href="https://github.com/otavioaugust1/">
   Contribuindo em um Projeto Open Source no GitHub&#x2705;</a></li>
